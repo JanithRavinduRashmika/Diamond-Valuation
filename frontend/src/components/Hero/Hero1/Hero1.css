@@ -1,0 +1,36 @@
+.hero1-container{
+    width: 100vw;
+    height: 100vh;
+    height: 100vh;
+    background-image: url('../../../resources/hero.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.hero1-text-container{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 120px;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    text-align: center; 
+    color: white;
+}
+
+.hero1-text-container h1{
+    font-size: 96px;
+    font-weight: 800;
+    text-shadow: 10px 5px 4px rgba(0, 0, 0, 0.5)
+}
+
+.hero1-text-container h3{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.hero1-text-container h6{
+    font-size: 24px;
+    margin-top: 50px;
+}
