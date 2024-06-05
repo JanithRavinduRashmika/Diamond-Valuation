@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Hero1 from '../../Hero/Hero1/Hero1'
+import InfinityScroll from '../../InfinityScroll/InfinityScroll'
 
 const Home = () => {
   return (
-    <Hero1/>
-    
+    <Fragment>
+      <Hero1/>
+      <InfinityScroll></InfinityScroll>
+    </Fragment>
   )
 }
 

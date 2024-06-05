@@ -9,6 +9,7 @@ const Hero1 = () => {
           <h1>Unleash the Sparkle</h1>
           <h6>Discover the beauty and brilliance of our handcrafted diamond jewelry. With exceptional craftsmanship and exquisite designs, we bring your dreams to life.</h6>
         </div>
+        
     </div>
   )
 }
